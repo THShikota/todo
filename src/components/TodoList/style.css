@@ -1,3 +1,4 @@
+/* Estilo da lista de tarefas */
 ul.todo-list li {
     display: flex;
     border-top: 1px solid #dfe6e9;
